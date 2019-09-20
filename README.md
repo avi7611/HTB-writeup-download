@@ -12,11 +12,15 @@ chromium browser
 
 just run the script and relax till, it downloads your writeups.
  
+ ----------------------------------------------------------------------------------------------------
+ 
 Steps to wun the script:-
  
    chmod +x download.sh
  
   ./download.sh
 
+----------------------------------------------------------------------------------------------------
+ 
 
--------------Before executing script make sure you open hackthebox in chromium web browser and login into your account which has vip access---------------
+-------Before executing script make sure you open hackthebox in chromium web browser and login into your account which has vip access------
