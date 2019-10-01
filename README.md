@@ -8,18 +8,18 @@ Requirements:-
 
 chromium browser
 
-> the files will be saved automatically to your default browser download location.
+ `the files will be saved automatically to your default browser download location.`
 
 just run the script and relax till, it downloads your writeups.
  
  ----------------------------------------------------------------------------------------------------
  
-Steps to wun the script:-
- 
+Steps to run the script:-
+``` 
    chmod +x download.sh
  
   ./download.sh
-
+```
 ----------------------------------------------------------------------------------------------------
  
 
