@@ -79,3 +79,26 @@ chromium --no-sandbox  https://www.hackthebox.eu/home/machines/writeup/191 https
 
 sleep 22
 chromium --no-sandbox  https://www.hackthebox.eu/home/machines/writeup/201 https://www.hackthebox.eu/home/machines/writeup/202 https://www.hackthebox.eu/home/machines/writeup/203 https://www.hackthebox.eu/home/machines/writeup/204 https://www.hackthebox.eu/home/machines/writeup/205 https://www.hackthebox.eu/home/machines/writeup/206 https://www.hackthebox.eu/home/machines/writeup/207 https://www.hackthebox.eu/home/machines/writeup/208 https://www.hackthebox.eu/home/machines/writeup/209 https://www.hackthebox.eu/home/machines/writeup/210&
+
+sleep 22
+chromium --no-sandbox  https://www.hackthebox.eu/home/machines/writeup/211 https://www.hackthebox.eu/home/machines/writeup/212 https://www.hackthebox.eu/home/machines/writeup/213 https://www.hackthebox.eu/home/machines/writeup/214 https://www.hackthebox.eu/home/machines/writeup/215 https://www.hackthebox.eu/home/machines/writeup/216 https://www.hackthebox.eu/home/machines/writeup/217 https://www.hackthebox.eu/home/machines/writeup/218 https://www.hackthebox.eu/home/machines/writeup/219 https://www.hackthebox.eu/home/machines/writeup/220&
+
+sleep 22
+chromium --no-sandbox  https://www.hackthebox.eu/home/machines/writeup/221 https://www.hackthebox.eu/home/machines/writeup/222 https://www.hackthebox.eu/home/machines/writeup/223 https://www.hackthebox.eu/home/machines/writeup/224 https://www.hackthebox.eu/home/machines/writeup/225 https://www.hackthebox.eu/home/machines/writeup/226 https://www.hackthebox.eu/home/machines/writeup/227 https://www.hackthebox.eu/home/machines/writeup/228 https://www.hackthebox.eu/home/machines/writeup/229 https://www.hackthebox.eu/home/machines/writeup/230&
+
+sleep 22
+chromium --no-sandbox  https://www.hackthebox.eu/home/machines/writeup/231 https://www.hackthebox.eu/home/machines/writeup/232 https://www.hackthebox.eu/home/machines/writeup/233 https://www.hackthebox.eu/home/machines/writeup/234 https://www.hackthebox.eu/home/machines/writeup/235 https://www.hackthebox.eu/home/machines/writeup/236 https://www.hackthebox.eu/home/machines/writeup/237 https://www.hackthebox.eu/home/machines/writeup/238 https://www.hackthebox.eu/home/machines/writeup/239 https://www.hackthebox.eu/home/machines/writeup/240&
+
+sleep 22
+chromium --no-sandbox  https://www.hackthebox.eu/home/machines/writeup/241 https://www.hackthebox.eu/home/machines/writeup/242 https://www.hackthebox.eu/home/machines/writeup/243 https://www.hackthebox.eu/home/machines/writeup/244 https://www.hackthebox.eu/home/machines/writeup/245 https://www.hackthebox.eu/home/machines/writeup/246 https://www.hackthebox.eu/home/machines/writeup/247 https://www.hackthebox.eu/home/machines/writeup/248 https://www.hackthebox.eu/home/machines/writeup/249 https://www.hackthebox.eu/home/machines/writeup/250&
+
+sleep 22
+chromium --no-sandbox  https://www.hackthebox.eu/home/machines/writeup/251 https://www.hackthebox.eu/home/machines/writeup/252 https://www.hackthebox.eu/home/machines/writeup/253 https://www.hackthebox.eu/home/machines/writeup/254 https://www.hackthebox.eu/home/machines/writeup/255 https://www.hackthebox.eu/home/machines/writeup/256 https://www.hackthebox.eu/home/machines/writeup/257 https://www.hackthebox.eu/home/machines/writeup/258 https://www.hackthebox.eu/home/machines/writeup/259 https://www.hackthebox.eu/home/machines/writeup/260&
+
+sleep 22
+chromium --no-sandbox  https://www.hackthebox.eu/home/machines/writeup/261 https://www.hackthebox.eu/home/machines/writeup/262 https://www.hackthebox.eu/home/machines/writeup/263 https://www.hackthebox.eu/home/machines/writeup/264 https://www.hackthebox.eu/home/machines/writeup/265 https://www.hackthebox.eu/home/machines/writeup/266 https://www.hackthebox.eu/home/machines/writeup/267 https://www.hackthebox.eu/home/machines/writeup/268 https://www.hackthebox.eu/home/machines/writeup/269 https://www.hackthebox.eu/home/machines/writeup/270&
+
+sleep 22
+chromium --no-sandbox  https://www.hackthebox.eu/home/machines/writeup/271 https://www.hackthebox.eu/home/machines/writeup/272 https://www.hackthebox.eu/home/machines/writeup/273 https://www.hackthebox.eu/home/machines/writeup/274 https://www.hackthebox.eu/home/machines/writeup/275 https://www.hackthebox.eu/home/machines/writeup/276 https://www.hackthebox.eu/home/machines/writeup/277 https://www.hackthebox.eu/home/machines/writeup/278 https://www.hackthebox.eu/home/machines/writeup/279 https://www.hackthebox.eu/home/machines/writeup/280&
+
+
