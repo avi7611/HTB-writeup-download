@@ -23,4 +23,4 @@ Steps to run the script:-
 ----------------------------------------------------------------------------------------------------
  
 
--------Before executing script make sure you open hackthebox in chromium web browser and login into your account which has vip access------
+-------Before executing script make sure you open hackthebox in firefox web browser and login into your account which has vip access------
